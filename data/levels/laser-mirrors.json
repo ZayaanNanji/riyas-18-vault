@@ -1,0 +1,5 @@
+{
+  "levels": [
+    {"id": "L01", "rows": 3, "cols": 3, "sequenceLength": 5, "speedMs": 450, "goalText": "Repeat the 5-beat neon sequence"}
+  ]
+}

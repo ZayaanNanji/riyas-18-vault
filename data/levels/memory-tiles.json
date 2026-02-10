@@ -1,0 +1,5 @@
+{
+  "levels": [
+    {"id": "L01", "rows": 3, "cols": 3, "targetHits": 12, "goalText": "Hit 12 neon targets"}
+  ]
+}

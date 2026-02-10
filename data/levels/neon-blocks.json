@@ -1,0 +1,5 @@
+{
+  "levels": [
+    {"id": "L01", "goal": {"score": 20, "lines": 0}, "maxPieces": 12, "goalText": "Score 20+ points", "timeLimit": 60}
+  ]
+}

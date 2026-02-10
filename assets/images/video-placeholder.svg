@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#49f2ff" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#8b5bff" stop-opacity="0.4" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="240" rx="18" fill="#0f1526" />
+  <rect x="16" y="16" width="368" height="208" rx="14" fill="url(#g)" stroke="#2b3655" />
+  <polygon points="170,90 170,150 230,120" fill="#49f2ff" />
+  <text x="200" y="210" text-anchor="middle" font-family="Trebuchet MS, sans-serif" font-size="18" fill="#9aa6c7">Riyas 18 Vault Clip</text>
+</svg>
